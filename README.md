@@ -1,4 +1,4 @@
-# .NET Core
+# .NET Core z9
 
 [![Build status](https://ci.appveyor.com/api/projects/status/xje8bkekyu130e9y?svg=true)](https://ci.appveyor.com/project/dotnet-bot/corefx)
 
